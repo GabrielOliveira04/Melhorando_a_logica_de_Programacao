@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Qual é a capital do Japao?",
+      "alternativas": ["Seul", "Toquio", "Pequim", "Bangkok"],
+      "correta": "Toquio"
+    },
+    {
+      "pergunta": "Qual desses times de futebol e brasileiro?",
+      "alternativas": ["Barcelona", "Chelsea", "Vasco", "Boca Juniors"],
+      "correta": "Vasco"
+    },
+    {
+      "pergunta": "Qual é o maior planeta do sistema solar?",
+      "alternativas": [
+        "Terra",
+         "Marte",
+         "Júpiter",
+         "Saturno"
+      ],
+      "correta": "Júpiter"
+    },
+    {
+      "pergunta": "Qual desses é um prato tipico do Brasil?",
+      "alternativas": ["Sushi", "Feijoada", "Pizza", "Paella"],
+      "correta": "Feijoada"
+    },
+    {
+      "pergunta": "Em que continente fica o Egito?",
+      "alternativas": ["Africa", "Asia", "Europa", "América do Sul"],
+      "correta": "Africa"
+    },
+    {
+      "pergunta": "Quem pintou a Mona Lisa?",
+      "alternativas": [
+        "Van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "correta": "Leonardo da Vinci"
+    },
+    {
+      "pergunta": "Qual é o metal liquido à temperatura ambiente?",
+      "alternativas": ["Ferro", "Mercurio", "Prata", "Ouro"],
+      "correta": "Mercurio"
+    },
+    {
+      "pergunta": "Qual destes países faz parte do Reino Unido?",
+      "alternativas": ["Irlanda", "Escócia", "Noruega", "Holanda"],
+      "correta": "Escócia"
+    },
+    {
+      "pergunta": "Qual é o principal ingrediente do guacamole?",
+      "alternativas": ["Tomate", "Abacate", "Cebola", "Pimenta"],
+      "correta": "Abacate"
+    },
+    {
+      "pergunta": "Quantos lados tem um hexágono?",
+      "alternativas": ["4", "5", "6", "8"],
+      "correta": "6"
+    }
+  ]
+}
